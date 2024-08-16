@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @in-tents
-- 👀 I’m interested in pushing the bounds of our reality through science
-- 🌱 I’m currently learning CS50 through Harvard's free classes
+- 👀 I’m interested in practical applications of artificial inteligence
+- 🌱 I’m currently learning web development with FastHTML
 - 💞️ I’m not looking to collaborate at this time, I have social anxiety tee hee
 - 📫 How to reach me: lwormand@gmail.com, or @sigmasova on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I use a stuffed goat instead of a rubber duck
+- ⚡ Fun fact: I code while stoned and it SHOWS
 
 <!---
 in-tents/in-tents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
