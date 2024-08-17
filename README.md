@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @in-tents
 - 👀 I’m interested in practical applications of artificial inteligence
-- 🌱 I’m currently learning web development with FastHTML
+- 🌱 I’m currently learning Python and am excited for FastHTML
 - 💞️ I’m not looking to collaborate at this time, I have social anxiety tee hee
 - 📫 How to reach me: lwormand@gmail.com, or @sigmasova on discord
 - 😄 Pronouns: he/him
