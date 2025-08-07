@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @in-tents
 - 👀 I’m interested in practical applications of artificial inteligence
-- 🌱 I’m currently learning Python and am excited for FastHTML
 - 💞️ I’m not looking to collaborate at this time, I have social anxiety tee hee
-- 📫 How to reach me: lwormand@gmail.com, or @sigmasova on discord
+- 📫 How to reach me: @sigmasova on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I code while stoned and it SHOWS
+- ⚡ Fun fact: I am not a programmer
 
 <!---
 in-tents/in-tents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
