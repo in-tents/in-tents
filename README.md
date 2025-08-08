@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @in-tents
 - 👀 I’m interested in practical applications of artificial inteligence
 - 💞️ I’m not looking to collaborate at this time, I have social anxiety tee hee
-- 📫 How to reach me: @sigmasova on discord
+- 📫 How to reach me: discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am not a programmer
 
